@@ -1,0 +1,16 @@
+.descriptionContainer {
+    text-align: center;
+    max-width: 500px;
+    margin: 0 auto 50px;
+  }
+  
+  .descriptionTitle {
+    font-size: 28px;
+    font-weight: 700;
+    margin-bottom: 12px;
+  }
+  
+  .descriptionText {
+    font-size: 18px;
+    line-height: 1.5;
+  }
